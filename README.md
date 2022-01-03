@@ -9,9 +9,9 @@
 - [Resources](#resources)
 
 
-### Note !!!
-This workshop will not be teaching you the basics of html, css or js. 
-The purpose of this workshop is to help you better understand how to impliment these 3 languages in a real web app that we might deploy after.
+> ### ⚠️ NOTE ⚠️
+>This workshop will not be teaching you the basics of html, css or js. 
+>The purpose of this workshop is to help you better understand how to impliment these 3 languages in a real web app that we might deploy after.
 ## Setting up the dev envirement
 ### 1. Required software
 
@@ -41,6 +41,7 @@ Before starting, make sure your computer has up-to-date versions of the followin
 - [Auto Close tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) (Optional)
 ## Pre-requisites
 ### - `HTML` basics
+  - Some basic tags 
 ### - `CSS` basics
 
 
