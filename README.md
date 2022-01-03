@@ -1,11 +1,11 @@
 <h1>Your First Frontend Application</h1>
 
 ### Table of contents
-- [Table of contents](###table-of-contents)
-- [Setting up the dev envirement](##setting-up-the-dev-envirement)
-- [Some vscode extentions](##some-vscode-extentions)
-- [Pre-requisites](##pre-requisites)
-- [Workshop content](#)
+- [Table of contents](#table-of-contents)
+- [Setting up the dev envirement](#setting-up-the-dev-envirement)
+- [Some vscode extentions](#some-vscode-extentions)
+- [Pre-requisites](#pre-requisites)
+- [Your Job](#your-job)
 - [Resources](#resources)
 
 
