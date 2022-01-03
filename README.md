@@ -26,9 +26,8 @@ Before starting, make sure your computer has up-to-date versions of the followin
 
 - Open VS Code and then press ```ctrl + ` ``` (backtick, in top left corner of keyboard) to open the built-in terminal
 - Use the `cd` (change directory) command to find an appropriate place for your code
-- Type `git clone https://github.com/awixor` into the terminal to pull down a copy of the workshop code
-- Type `cd 1337-frontend-basics-workshop` to change your current directory to the workshop folder
-<!-- - Type `npm install` to install all of the project dependencies -->
+- Type `git clone https://github.com/AWIXOR/1337-HtML-CSS-workshop` into the terminal to pull down a copy of the workshop code
+- Type `cd 1337-HtML-CSS-workshop` to change your current directory to the workshop folder
 - Type `code -r .` to open the bootcamp code in VS Code
 > If on a Mac, be sure you've followed [these steps](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) first to make the `code` command available.
 
