@@ -3,7 +3,7 @@
 ### Table of contents
 - [Table of contents](#table-of-contents)
 - [Setting up the dev envirement](#setting-up-the-dev-envirement)
-- [Some vscode extentions](#some-vscode-extentions)
+- [Some vscode extentions](#install-some-vscode-extentions)
 - [Pre-requisites](#pre-requisites)
 - [Your Job](#your-job)
 - [Resources](#resources)
