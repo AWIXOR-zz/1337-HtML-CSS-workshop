@@ -40,7 +40,6 @@ Before starting, make sure your computer has up-to-date versions of the followin
 - [Auto Close tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) (Optional)
 ## Pre-requisites
 ### - `HTML` basics
-  - Some basic tags 
 ### - `CSS` basics
 
 
